@@ -28,10 +28,12 @@ Questa repository contiene **tutte le risorse necessarie** per diventare e svolg
 ### 📋 **Vademecum Tutor**
 ```
 └── Vademecum Tutor/
-    ├── 📄 Vademecum Tutor.pdf        # Guida completa in PDF
-    └── 📄 Vademecum Tutor.odt        # Versione editabile OpenOffice
+    ├── 📄 Vademecum Tutor.pdf                    # Guida completa generale
+    ├── 📄 Vademecum Tutor.odt                    # Versione editabile OpenOffice
+    └── 📄 Vademecum Tutor per l'Inclusione.odt   # Guida specializzata inclusione
 ```
-- **Guida completa al tutorato UniPD**
+- **Guida completa al tutorato UniPD** (generale)
+- **Vademecum specializzato per tutor inclusione** con procedure specifiche
 - Procedure di candidatura e selezione
 - Obblighi formativi e amministrativi
 - Best practices e consigli pratici
@@ -84,6 +86,11 @@ Questa repository contiene **tutte le risorse necessarie** per diventare e svolg
 - **[Tutorato UniPD](https://www.unipd.it/tutorato)** - Pagina principale del servizio
 - **[Contatti e Ricevimenti Tutor](https://www.unipd.it/contatti-ricevimenti-tutor)** - Directory tutor attivi
 
+### 🎯 **Tutorato per l'Inclusione - Risorse Specifiche**
+- **[Inclusione e Disabilità](https://www.unipd.it/inclusione-e-disabilita)** - Servizi di supporto UniPD
+- **[Supporti per Studio](https://www.unipd.it/supporti-studiare)** - Supporti per lezioni, studio ed esami
+- **[Benefici Economici Disabilità](https://www.unipd.it/benefici-economici-alloggi-disabilita)** - Agevolazioni e certificazioni
+
 ### 🔒 **Formazione Sicurezza**
 - **[Corsi Sicurezza Online](https://elearning.unipd.it/formazione/course/index.php?categoryid=1)** - Piattaforma e-learning
 - **[Informazioni Sicurezza](https://www.unipd.it/corsi-formazione-sicurezza)** - Guide e procedure
@@ -94,9 +101,11 @@ Questa repository contiene **tutte le risorse necessarie** per diventare e svolg
 - **[Dipartimento Matematica](https://www.math.unipd.it)** - Sede amministrativa tutorato Informatica
 
 ### 📧 **Contatti Diretti**
-- **Email Tutorato**: [tutorato@unipd.it](mailto:tutorato@unipd.it)
+- **Email Tutorato Generale**: [tutorato@unipd.it](mailto:tutorato@unipd.it)
+- **Email Inclusione**: [inclusione.studenti@unipd.it](mailto:inclusione.studenti@unipd.it)
 - **Tutor Informatica**: [tutor.informatica@unipd.it](mailto:tutor.informatica@unipd.it)
 - **Ufficio Tutorato**: Via del Portello 19, 35129 Padova | Tel. 049.8275044
+- **Settore Inclusione**: Via Venezia 8/A, 35131 Padova | Tel. 049.827.5038
 
 ---
 
@@ -114,7 +123,13 @@ Questa repository contiene **tutte le risorse necessarie** per diventare e svolg
 3. 💾 Organizza i file seguendo l'**[Esempio Drive](File%20di%20riferimento%20-%20Tutti%20i%20tutorati/AAA%20Rossi%20Mario%20-%20Esempio%20file%20Drive.zip)**
 4. ❓ Consulta le **[FAQ](File%20di%20riferimento%20-%20Tutti%20i%20tutorati/FAQ%20Intuitivo%20Tutor.docx)** per dubbi comuni
 
-### 3️⃣ **Per Tutor di Coordinamento**
+### 3️⃣ **Per Tutor Inclusione**
+1. 📖 Leggi il **[Vademecum Tutor Inclusione](Vademecum%20Tutor/Vademecum%20Tutor%20per%20l'Inclusione.odt)** specializzato
+2. 🎓 Iscriviti alla **formazione obbligatoria** presso Psicologia (24 giugno o 23 settembre 2025)
+3. 📊 Familiarizza con il **sistema Drive condiviso** per il monitoraggio ore
+4. 📧 Contatta il **[Settore Inclusione](mailto:inclusione.studenti@unipd.it)** per informazioni specifiche
+
+### 4️⃣ **Per Tutor di Coordinamento**
 1. 📈 Utilizza i **[Template Presentazioni](Raccolte%20dati%20-%20Tutor%20di%20Coordinamento/)** per i report
 2. 📊 Monitora i dati con gli **esempi di analisi** forniti
 3. 🔄 Organizza gli **incontri di monitoraggio** (novembre, marzo, luglio)
@@ -137,6 +152,11 @@ Questa repository contiene **tutte le risorse necessarie** per diventare e svolg
 - **Supporto studenti** con esigenze speciali
 - **Formazione specialistica** obbligatoria
 - **Metodologie inclusive** e personalizzate
+
+### 🌟 **Tutorato per l'Inclusione**
+- **Supporto specializzato** per studenti con disabilità e DSA
+- **Formazione obbligatoria** specifica presso Psicologia
+- **Accompagnamento personalizzato** e servizi di lettore/amanuense
 
 ### 🤝 **Tutorato Buddy**
 - **Supporto studenti internazionali** (Erasmus, Exchange)
@@ -248,7 +268,7 @@ Questo progetto è rilasciato sotto **Creative Commons Attribution-ShareAlike 4.
 
 <div align="center">
 
-### 🎓 Made with ❤️ for students
+### 🎓 Made with ❤️ Students
 
 **[⬆️ Torna all'inizio](#-faq-tutorato-unipd---guida-completa-per-tutor)**
 
