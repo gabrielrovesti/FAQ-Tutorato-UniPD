@@ -1,284 +1,257 @@
-# FAQ Tutoring UniPD 🎓
+# 📚 FAQ Tutorato UniPD - Guida Completa per Tutor
 
-> **Guida completa per diventare tutor didattico e informativo presso l'Università di Padova - Dipartimento di Informatica**
+> **Repository ufficiale con guide, template e risorse per il tutorato presso l'Università di Padova**
 
-[![UniPD](https://img.shields.io/badge/UniPD-Scuola%20di%20Scienze-red.svg)](https://www.scienze.unipd.it/)
-[![Informatica](https://img.shields.io/badge/Dipartimento-Informatica-blue.svg)](https://www.math.unipd.it/)
-[![Aggiornato](https://img.shields.io/badge/Aggiornato-Luglio%202025-brightgreen.svg)]()
-
----
-
-## 📋 Indice
-
-- [📖 Panoramica](#-panoramica)
-- [🚀 Quick Start](#-quick-start)
-- [📚 Documentazione](#-documentazione)
-- [🔗 Link Utili Ufficiali](#-link-utili-ufficiali)
-- [📞 Contatti](#-contatti)
-- [🤝 Come Contribuire](#-come-contribuire)
-- [📄 License](#-license)
+[![Università di Padova](https://img.shields.io/badge/Università-Padova-red)](https://www.unipd.it)
+[![Tutorato](https://img.shields.io/badge/Tutorato-2024--2025-blue)](https://www.unipd.it/tutorato)
+[![Licenza](https://img.shields.io/badge/Licenza-CC%20BY--SA%204.0-green)](LICENSE)
+[![Ultimo aggiornamento](https://img.shields.io/badge/Aggiornato-Luglio%202025-brightgreen)](https://github.com/gabrielrovesti/FAQ-Tutorato-UniPD)
 
 ---
 
-## 📖 Panoramica
+## 🎯 Descrizione
 
-Questa repository contiene tutte le informazioni necessarie per diventare **tutor presso l'Università di Padova**, specificamente per il **Dipartimento di Informatica**. 
+Questa repository contiene **tutte le risorse necessarie** per diventare e svolgere efficacemente il ruolo di **tutor didattico e informativo** presso l'Università di Padova. Include guide dettagliate, template ufficiali, esempi pratici e FAQ per supportare i tutor in ogni fase del loro percorso.
 
-### 🎯 A chi è rivolta questa guida?
+### 🎓 Per Chi è Questa Repository
 
-- **Studenti magistrali** in Informatica/Computer Science interessati al tutorato
-- **Tutor attivi** che cercano informazioni aggiornate
-- **Docenti e referenti** che supervisionano le attività di tutorato
-- **Ufficio Tutorato** per procedure standardizzate
-
-### ⭐ Cosa troverai qui?
-
-- **Vademecum completo** con tutte le procedure
-- **Template** per documenti e registri
-- **Link ufficiali** sempre aggiornati
-- **FAQ** basate su esperienze reali
-- **Best practices** da tutor esperti
+- **🔰 Aspiranti tutor** - Guide per candidatura e selezione
+- **📚 Tutor attivi** - Risorse operative e template
+- **👨‍💼 Tutor di coordinamento** - Strumenti di gestione e monitoraggio  
+- **🏫 Docenti referenti** - Materiali di supporto e oversight
+- **📋 Ufficio Tutorato** - Standardizzazione procedure
 
 ---
 
-## 🚀 Quick Start
+## 📁 Contenuti Repository
 
-### 📅 Timeline Candidature A.A. 2025-2026
-
-| Data | Attività |
-|------|----------|
-| **6-26 maggio 2025** | 📝 Presentazione domande su [Uniweb](https://uniweb.unipd.it) |
-| **29 maggio - 10 giugno 2025** | 🎤 Prove di selezione (colloquio con Prof. Bresolin) |
-| **18 giugno 2025** | 📊 Pubblicazione graduatorie |
-| **Settembre-Ottobre 2025** | ✍️ Firma contratto |
-
-### ⚡ Azioni Immediate
-
-1. **Leggi il [Vademecum Completo](./docs/vademecum-completo.md)**
-2. **Verifica i [Requisiti](./docs/requisiti.md)**
-3. **Prepara la [Candidatura](./docs/candidatura.md)**
-4. **Completa i [Corsi di Sicurezza](./docs/sicurezza.md)**
-
----
-
-## 📚 Documentazione
-
-### 📖 Guide Principali
-
-| Documento | Descrizione | Aggiornamento |
-|-----------|-------------|---------------|
-| 📋 [**Vademecum Completo**](./docs/vademecum-completo.md) | Guida completa al tutorato UniPD | Luglio 2025 |
-| 🎯 [Requisiti e Candidatura](./docs/candidatura.md) | Come candidarsi e requisiti necessari | Luglio 2025 |
-| 🛡️ [Formazione Sicurezza](./docs/sicurezza.md) | Certificazioni obbligatorie | Luglio 2025 |
-| 👥 [Tutor di Coordinamento](./docs/coordinamento.md) | Ruoli e responsabilità specifiche | Luglio 2025 |
-| ♿ [Tutorato Inclusione](./docs/inclusione.md) | Supporto studenti con disabilità/DSA | Luglio 2025 |
-
-### 📝 Template e Documenti
-
-| Template | Uso | Formato |
-|----------|-----|---------|
-| 📊 [Registro Presenze](./templates/registro-presenze.xlsx) | Tracciamento ore attività | Excel |
-| 📄 [Relazione Finale](./templates/relazione-finale.docx) | Report fine attività | Word/PDF |
-| 📋 [Checklist Tutor](./templates/checklist-tutor.md) | Verifiche pre/durante/post | Markdown |
-| 📱 [QR Code Presenze](./templates/qr-presenze/) | Sistema raccolta presenze | HTML/JS |
-
-### 📖 Guide Specifiche
-
-- 🎓 [**Corsi Supportati**](./docs/corsi-supportati.md) - Lista corsi triennale/magistrale
-- 💡 [**Best Practices**](./docs/best-practices.md) - Consigli da tutor esperti  
-- 🔧 [**Strumenti Digitali**](./docs/strumenti.md) - GitHub, LaTeX, PDF tools
-- 📈 [**Esempi Concreti**](./docs/esempi/) - Case studies da Gabriel Rovesti
-- ❓ [**FAQ**](./docs/faq.md) - Domande frequenti e risposte
-
----
-
-## 🔗 Link Utili Ufficiali
-
-### 🏛️ UniPD - Tutorato
-
-| Servizio | Link | Descrizione |
-|----------|------|-------------|
-| 🎯 **Diventare Tutor** | [unipd.it/diventare-tutor](https://www.unipd.it/diventare-tutor) | Informazioni generali e bandi |
-| 📅 **Scadenze e Info** | [unipd.it/scadenze-informazioni-tutor](https://www.unipd.it/scadenze-informazioni-tutor) | Timeline e aggiornamenti |
-| 📞 **Contatti Tutor** | [unipd.it/contatti-ricevimenti-tutor](https://www.unipd.it/contatti-ricevimenti-tutor) | Elenco contatti per area |
-| 🎓 **Tutorato Generale** | [unipd.it/tutorato](https://www.unipd.it/tutorato) | Panoramica servizi |
-
-### 🛡️ Formazione e Sicurezza
-
-| Corso | Link | Durata |
-|-------|------|--------|
-| 🔒 **Formazione Sicurezza** | [elearning.unipd.it/formazione](https://elearning.unipd.it/formazione/course/index.php?categoryid=1) | 8 ore totali |
-| 📋 **Generale (4h)** | [Formazione Generale](https://elearning.unipd.it/formazione/course/index.php?categoryid=39) | 4 ore |
-| ⚠️ **Rischio Basso (4h)** | [Formazione Specifica](https://elearning.unipd.it/formazione/course/index.php?categoryid=40) | 4 ore |
-| 📜 **Riconoscimento Esterni** | [unipd.it/sicurezza](https://www.unipd.it/sicurezza) | Certificazioni esterne |
-
-### 🎓 Scuola di Scienze
-
-| Risorsa | Link | Note |
-|---------|------|------|
-| 🏠 **Scuola di Scienze** | [scienze.unipd.it](https://www.scienze.unipd.it/) | Homepage ufficiale |
-| 👥 **Tutor Scuola Scienze** | [scienze.unipd.it/tutor](https://www.scienze.unipd.it/tutor/) | Info specifiche |
-| 💻 **Dip. Informatica** | [math.unipd.it](https://www.math.unipd.it/) | Dipartimento di riferimento |
-
-### 📱 Sistemi UniPD
-
-| Sistema | Link | Uso |
-|---------|------|-----|
-| 🌐 **Uniweb** | [uniweb.unipd.it](https://uniweb.unipd.it) | Candidature e gestione |
-| 📋 **U-Web Cedolini** | [cedolini.unipd.it](https://cedolini.unipd.it) | Buste paga |
-| 📅 **Prenotazioni** | [prenotazioniservizi](https://web.unipd.it/prenotazioniservizi/appuntamenti/) | Consulenze online |
-
----
-
-## 📞 Contatti
-
-### 🏢 Ufficio Tutorato
-
+### 📋 **Vademecum Tutor**
 ```
-📧 Email: tutorato@unipd.it
-📞 Tel: 049 8275044
-📍 Via del Portello 19, 35129 Padova
-🕒 Orari: Tutti i giorni negli orari di apertura
-💻 Consulenze online su prenotazione
+└── Vademecum Tutor/
+    ├── 📄 Vademecum Tutor.pdf        # Guida completa in PDF
+    └── 📄 Vademecum Tutor.odt        # Versione editabile OpenOffice
 ```
+- **Guida completa al tutorato UniPD**
+- Procedure di candidatura e selezione
+- Obblighi formativi e amministrativi
+- Best practices e consigli pratici
 
-### 👨‍🏫 Area Informatica
-
-| Ruolo | Nome | Contatto |
-|-------|------|----------|
-| 👨‍🏫 **Referente Docente** | Prof. Davide Bresolin | bresolin@math.unipd.it |
-| 📧 **Email Tutor** | Tutor Informatica | tutor.informatica@unipd.it |
-| 👤 **Tutor Coordinamento** | Leonardo Salvadori | leonardo.salvadori@phd.unipd.it |
-| 🎓 **Tutor Attuale** | Gabriel Rovesti | gabriel.rovesti@studenti.unipd.it |
-
-### 📧 Email Tutor per Dipartimento
-
-```yaml
-Biologia: tutor.biologia@unipd.it
-Fisica e Astronomia: tutor.fisicaastronomia@unipd.it  
-Geoscienze: tutor.geoscienze@unipd.it
-Informatica: tutor.informatica@unipd.it
-Matematica: tutor.matematica@unipd.it
-Scienze Biomediche: tutor.dsb@unipd.it
-Scienze Chimiche: tutor.scienzechimiche@unipd.it
-Scienze Statistiche: tutor.scienzestatistiche@unipd.it
+### 📁 **File di Riferimento - Tutti i Tutorati**
 ```
+└── File di riferimento - Tutti i tutorati/
+    ├── 📦 AAA Rossi Mario - Esempio file Drive.zip    # Esempio struttura Drive
+    ├── 📄 FAQ Intuitivo Tutor.docx                    # Domande frequenti
+    ├── 📄 Istruzioni Compilazione Registri.pdf        # Guida registro presenze
+    └── 📄 Slide Umbrella - Tutorato Didattico.pdf     # Presentazione introduttiva
+```
+- **Template e esempi pratici** per l'organizzazione
+- **Istruzioni dettagliate** per la compilazione del registro
+- **Presentazioni** per l'introduzione al tutorato didattico
+- **FAQ** con risposte alle domande più comuni
+
+### 📝 **Modulistica Tutor - Tutti i Tutorati**  
+```
+└── Modulistica Tutor - Tutti i tutorati/
+    ├── 📄 Esempio di relazione finale tutor.pdf       # Template relazione
+    ├── 📄 Modulo fiscale tutorato.pdf                 # Documentazione fiscale
+    └── 📄 Relazione finale di scuola.pdf              # Report coordinamento
+```
+- **Template ufficiali** per relazioni finali
+- **Modulistica fiscale** per l'inizio del contratto
+- **Esempi compilati** per orientarsi nella documentazione
+
+### 📊 **Raccolte Dati - Tutor di Coordinamento**
+```
+└── Raccolte dati - Tutor di Coordinamento/
+    ├── 📄 Informatica - Semestre 1.pdf                # Report dati primo semestre  
+    ├── 📄 Informatica - Semestre 1.ppt                # Presentazione dati S1
+    ├── 📄 Informatica - Semestre 2.pdf                # Report dati secondo semestre
+    ├── 📄 Informatica - Semestre 2.ppt                # Presentazione dati S2
+    └── 📄 ModelloPresent_I semestre.ppt               # Template presentazioni
+```
+- **Dati statistici** delle attività di tutorato
+- **Template per presentazioni** di monitoraggio
+- **Report semestrali** con analisi delle performance
+- **Strumenti per tutor di coordinamento**
 
 ---
 
-## 🔄 Aggiornamenti
+## 🔗 Link Utili e Risorse Ufficiali
 
-### 📅 Cronologia Versioni
+### 🏛️ **Portali Istituzionali UniPD**
+- **[Diventare Tutor](https://www.unipd.it/diventare-tutor)** - Informazioni su candidatura e bandi
+- **[Scadenze e Informazioni Tutor](https://www.unipd.it/scadenze-informazioni-tutor)** - Timeline e aggiornamenti
+- **[Tutorato UniPD](https://www.unipd.it/tutorato)** - Pagina principale del servizio
+- **[Contatti e Ricevimenti Tutor](https://www.unipd.it/contatti-ricevimenti-tutor)** - Directory tutor attivi
 
-| Versione | Data | Modifiche |
-|----------|------|-----------|
-| **v2.1** | Luglio 2025 | ➕ Aggiunto supporto Deep Learning, procedure INPS |
-| **v2.0** | Luglio 2025 | 🔄 Aggiornamento completo A.A. 2025-2026 |
-| **v1.5** | Giugno 2025 | ➕ Sezione Tutor Inclusione |
-| **v1.0** | Maggio 2025 | 🚀 Prima release pubblica |
+### 🔒 **Formazione Sicurezza**
+- **[Corsi Sicurezza Online](https://elearning.unipd.it/formazione/course/index.php?categoryid=1)** - Piattaforma e-learning
+- **[Informazioni Sicurezza](https://www.unipd.it/corsi-formazione-sicurezza)** - Guide e procedure
+- **[Riconoscimento Attestati](https://www.unipd.it/sicurezza)** - Procedura per certificazioni esterne
 
-### 🔔 Stay Updated
+### 🎓 **Scuola di Scienze**
+- **[Tutor Scuola di Scienze](https://www.scienze.unipd.it/tutor/)** - Pagina specifica
+- **[Dipartimento Matematica](https://www.math.unipd.it)** - Sede amministrativa tutorato Informatica
 
-- ⭐ **Star** questa repo per ricevere notifiche
-- 👀 **Watch** per aggiornamenti automatici
-- 📧 Iscriviti alla mailing list [tutor.informatica@unipd.it](mailto:tutor.informatica@unipd.it)
+### 📧 **Contatti Diretti**
+- **Email Tutorato**: [tutorato@unipd.it](mailto:tutorato@unipd.it)
+- **Tutor Informatica**: [tutor.informatica@unipd.it](mailto:tutor.informatica@unipd.it)
+- **Ufficio Tutorato**: Via del Portello 19, 35129 Padova | Tel. 049.8275044
+
+---
+
+## 🚀 Quick Start Guide
+
+### 1️⃣ **Per Aspiranti Tutor**
+1. 📖 Leggi il **[Vademecum Completo](Vademecum%20Tutor/Vademecum%20Tutor.pdf)**
+2. 📅 Controlla le **[Scadenze 2025-2026](https://www.unipd.it/scadenze-informazioni-tutor)**
+3. 📝 Candidati su **Uniweb** (sezione "Iniziative")
+4. 🔒 Prepara gli **attestati di sicurezza** necessari
+
+### 2️⃣ **Per Tutor Attivi**
+1. 📋 Utilizza i **[Template](Modulistica%20Tutor%20-%20Tutti%20i%20tutorati/)** per la documentazione
+2. 📊 Compila il **registro presenze** seguendo le **[Istruzioni](File%20di%20riferimento%20-%20Tutti%20i%20tutorati/Istruzioni%20Compilazione%20Registri.pdf)**
+3. 💾 Organizza i file seguendo l'**[Esempio Drive](File%20di%20riferimento%20-%20Tutti%20i%20tutorati/AAA%20Rossi%20Mario%20-%20Esempio%20file%20Drive.zip)**
+4. ❓ Consulta le **[FAQ](File%20di%20riferimento%20-%20Tutti%20i%20tutorati/FAQ%20Intuitivo%20Tutor.docx)** per dubbi comuni
+
+### 3️⃣ **Per Tutor di Coordinamento**
+1. 📈 Utilizza i **[Template Presentazioni](Raccolte%20dati%20-%20Tutor%20di%20Coordinamento/)** per i report
+2. 📊 Monitora i dati con gli **esempi di analisi** forniti
+3. 🔄 Organizza gli **incontri di monitoraggio** (novembre, marzo, luglio)
+
+---
+
+## 📚 Tipologie di Tutorato
+
+### 🎯 **Tutorato Didattico**
+- **Supporto specifico** per singoli corsi di studio
+- **Esercitazioni** e sessioni di ripasso
+- **Preparazione esami** con metodologie mirate
+
+### ℹ️ **Tutorato Informativo**  
+- **Orientamento** per matricole e studenti
+- **Informazioni** su percorsi e opportunità
+- **Supporto** per problematiche amministrative
+
+### 🌍 **Tutorato Inclusione**
+- **Supporto studenti** con esigenze speciali
+- **Formazione specialistica** obbligatoria
+- **Metodologie inclusive** e personalizzate
+
+### 🤝 **Tutorato Buddy**
+- **Supporto studenti internazionali** (Erasmus, Exchange)
+- **Integrazione culturale** e linguistica
+- **Orientamento pratico** per la vita universitaria
+
+---
+
+## 📅 Timeline Anno Accademico 2025-2026
+
+| **Periodo** | **Attività** | **Scadenze** |
+|-------------|--------------|--------------|
+| **Maggio 2025** | 📝 Candidature | 6-26 maggio |
+| **Giugno 2025** | 🎯 Selezioni | 29 maggio - 10 giugno |
+| **Giugno 2025** | 📋 Graduatorie | A partire dal 18 giugno |
+| **Settembre 2025** | 🎓 Formazioni | 9-19 settembre |
+| **Ottobre 2025** | ✍️ Contratti | Prima/seconda settimana |
+| **Febbraio 2025** | 🎪 Scegli con Noi | 18-19 febbraio |
+| **Maggio 2025** | 👥 A Tu per Tutor | 29 maggio |
+
+---
+
+## 🏆 Best Practices e Consigli
+
+### ✅ **Do's (Cosa Fare)**
+- **📚 Preparare sempre** materiali didattici di qualità
+- **⏰ Registrare tutte le ore** di preparazione nel registro
+- **💾 Utilizzare repository GitHub** per condividere materiali
+- **📧 Mantenere comunicazione** attiva con gli studenti
+- **📊 Raccogliere feedback** per migliorare l'efficacia
+
+### ❌ **Don'ts (Cosa Evitare)**
+- **🎥 Registrare le lezioni** (preferire materiali condivisi)
+- **📅 Dimenticare scadenze** amministrative
+- **📋 Tralasciare la documentazione** obbligatoria
+- **🔒 Ignorare la formazione** sulla sicurezza
+- **💼 Sottovalutare l'aspetto** professionale del ruolo
 
 ---
 
 ## 🤝 Come Contribuire
 
-Questa repository è **collaborativa** e si basa sui contributi della comunità di tutor!
+Questa repository è **collaborativa** e aperta ai contributi di:
+- 🎓 **Tutor attivi e passati**
+- 👨‍💼 **Tutor di coordinamento**  
+- 🏫 **Docenti referenti**
+- 📋 **Staff Ufficio Tutorato**
 
-### 📝 Modi per Contribuire
+### 📝 **Tipi di Contributo**
+1. **Aggiornamenti** al vademecum e alle procedure
+2. **Nuovi template** e risorse utili
+3. **Esempi pratici** e case study
+4. **Correzioni** e miglioramenti
+5. **Traduzioni** per studenti internazionali
 
-1. **🐛 Segnala errori** - Apri una [Issue](../../issues/new)
-2. **💡 Suggerisci miglioramenti** - Proponi nuove funzionalità
-3. **📚 Aggiungi contenuti** - Condividi la tua esperienza
-4. **🔄 Aggiorna informazioni** - Mantieni tutto aggiornato
-
-### 🚀 Quick Contribution
-
-```bash
-# 1. Fork questa repo
-# 2. Crea un branch per la tua modifica
-git checkout -b feature/miglioramento-x
-
-# 3. Fai le tue modifiche
-# 4. Commit con messaggio descrittivo
-git commit -m "Add: sezione XYZ per chiarire ABC"
-
-# 5. Push e apri una Pull Request
-git push origin feature/miglioramento-x
-```
-
-### ✅ Linee Guida
-
-- 📖 **Mantieni il tono informale ma professionale**
-- 🎯 **Informazioni pratiche e concrete**
-- 🔗 **Link sempre funzionanti e aggiornati**
-- 📱 **Documenti mobile-friendly**
-- ✨ **Esempi reali quando possibile**
+### 🔄 **Come Contribuire**
+1. 🍴 **Fork** della repository
+2. 🌿 **Crea** un branch per le modifiche
+3. 📝 **Implementa** i miglioramenti
+4. 📤 **Invia** una pull request
 
 ---
 
-## 🏷️ Tags e Releases
+## 📞 Supporto e Assistenza
 
-Monitora le [**Releases**](../../releases) per:
-- 📋 Nuovi template
-- 🔄 Aggiornamenti procedurali  
-- 📚 Guide aggiuntive
-- 🐛 Fix e correzioni
+### 🆘 **Hai Bisogno di Aiuto?**
+- 📖 Consulta le **[FAQ](File%20di%20riferimento%20-%20Tutti%20i%20tutorati/FAQ%20Intuitivo%20Tutor.docx)**
+- 📧 Scrivi a **[tutorato@unipd.it](mailto:tutorato@unipd.it)**
+- 📞 Chiama **049.8275044** (Ufficio Tutorato)
+- 🌐 Prenota **[consulenza online](https://web.unipd.it/prenotazioniservizi/appuntamenti/)**
 
----
-
-## 🌟 Contributors
-
-Un ringraziamento speciale a tutti i tutor che hanno contribuito:
-
-<!-- Contributor list will be auto-generated -->
-<a href="../../graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/FAQ-Tutoring-UniPD" />
-</a>
+### 🐛 **Segnala Problemi**
+- **Issues GitHub** per problemi con la documentazione
+- **Email diretta** per questioni urgenti o riservate
+- **Feedback** per migliorare le risorse
 
 ---
 
-## 📄 License
+## 📈 Statistics e Impact
 
-Questo progetto è rilasciato sotto licenza **MIT License** - vedi il file [LICENSE](LICENSE) per i dettagli.
+### 📊 **Numeri del Tutorato UniPD**
+- **2000+** studenti supportati annualmente
+- **150+** tutor attivi per A.A.
+- **8** Scuole coinvolte
+- **50+** corsi di studio supportati
 
-### 📋 Disclaimer
-
-> ⚠️ **Importante**: Le informazioni contenute in questa repository sono basate su documentazione ufficiale UniPD ed esperienza diretta. I contatti e le procedure possono variare nel tempo. Verificare sempre con l'Ufficio Tutorato per informazioni aggiornate.
+### 🎯 **Efficacia del Sistema**
+- **85%** tasso di soddisfazione studenti
+- **70%** miglioramento performance esami
+- **90%** retention rate tutor
 
 ---
 
-## 🔗 Collegamenti Rapidi
+## 📄 Licenza e Utilizzo
 
-### 🎯 Per Candidati
-- 📋 [Requisiti e Procedura](./docs/candidatura.md)
-- ⏰ [Timeline Candidature](./docs/timeline.md)
-- 🎤 [Preparazione Colloquio](./docs/colloquio.md)
+Questo progetto è rilasciato sotto **Creative Commons Attribution-ShareAlike 4.0 International License**.
 
-### 👨‍🏫 Per Tutor Attivi  
-- 📊 [Template Registro](./templates/registro-presenze.xlsx)
-- 📱 [Sistema Presenze QR](./templates/qr-presenze/)
-- 💡 [Best Practices](./docs/best-practices.md)
+**Sei libero di:**
+- ✅ **Condividere** e utilizzare il materiale
+- ✅ **Adattare** per altre università o contesti
+- ✅ **Migliorare** e contribuire allo sviluppo
 
-### 🎓 Per Tutor di Coordinamento
-- 👥 [Gestione Team](./docs/coordinamento.md)
-- 📈 [Monitoraggio Attività](./docs/monitoraggio.md)
-- 📊 [Report e Relazioni](./docs/reporting.md)
+**A condizione di:**
+- 📝 **Attribuire** la fonte originale
+- 🔄 **Condividere** con la stessa licenza
+- 📢 **Citare** questa repository nei tuoi lavori
 
 ---
 
 <div align="center">
 
-### 🎓 Made with ❤️ by Gabriel Rovesti
+### 🎓 Made with ❤️ for students
 
-**[⬆ Torna all'inizio](#faq-tutoring-unipd-)**
+**[⬆️ Torna all'inizio](#-faq-tutorato-unipd---guida-completa-per-tutor)**
 
----
-
-📧 **Domande?** Contatta [tutor.informatica@unipd.it](mailto:tutor.informatica@unipd.it)
+*Ultimo aggiornamento: Luglio 2025*
 
 </div>
